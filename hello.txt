@@ -1,0 +1,1 @@
+echo "Halo GitHub! Ini praktikum saya."
